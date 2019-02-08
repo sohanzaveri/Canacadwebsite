@@ -1,0 +1,151 @@
+#container{
+	width: 1300px;
+	white-space: nowrap;
+    overflow-x: auto;
+}
+
+
+
+
+#child0 {
+	height: 1850px;
+    width: 550px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);
+	overflow: hidden;
+
+	font-size: 50%;
+
+	}
+
+#child0option1 {
+	height: 2080px;
+    width: 600px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+	margin-left: 400px;
+	margin-right: 10px;
+	overflow-x: hidden;
+
+	font-size: 110%;
+
+	}
+
+#child0option2 {
+	height: 1950px;
+    width: 600px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+	font-size: 100%;
+
+	}
+#child0option3 {
+
+	height:1500px;
+    width: 450px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+	font-size: 75%;
+
+
+
+	}
+
+
+#child1 {
+
+	height: 1750px;
+    width: 550px;
+    padding:10px;
+	display: inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+
+}
+
+#child1option2 {
+
+	height: 1950px;
+    width: 600px;
+    padding:10px;
+	display: inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+	font-size: 100%;
+
+}
+
+#child1option3 {
+
+	height:1500px;
+    width: 450px;
+    padding:10px;
+	display: inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+	font-size: 75%;
+
+}
+#child2option3 {
+	height:1500px;
+    width: 500px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;	
+	font-size: 75%;
+
+}
+
+#child2 {
+	height:1750px;
+    width: 550px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+ 
+
+}
+
+
+
+#child3 {
+	height:1750px;
+    width: 550px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;	
+
+}
+
+
+
+
+
+#child4 {
+	height:1750px;
+    width: 550px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+}
+
+
+#createfamilyplan
+{
+	margin-top: 10px;
+	padding:10px;
+
+
+}
+

@@ -1,0 +1,28 @@
+body
+{
+	background: #999;
+	margin-left: 40px;
+	color: rgb(190,0,0);
+	
+
+}
+
+
+#paragraph{
+	width:500px;
+	font-size:20px;
+}
+
+
+#Start
+{	
+	margin: 10px;
+	background-color: blue;
+}
+
+#logo
+{
+	height: 300px;
+	width: 300px;
+	float: right; 
+}

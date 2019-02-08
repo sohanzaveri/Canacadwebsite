@@ -1,0 +1,78 @@
+
+
+
+@media print{
+
+#parents{
+	visibility: hidden;
+}
+
+
+	#container{
+	width: 1300px;
+	white-space: nowrap;
+    overflow-x: auto;
+	}
+
+#child0 {
+	height: 1850px;
+    width: 550px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);
+	overflow: hidden;
+	}
+
+
+#child1 {
+
+	height: 1750px;
+    width: 550px;
+    padding:10px;
+	display: inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+
+}
+
+
+#child3 {
+	display:inline-block;
+}
+
+
+
+
+
+#child4 {
+	height:1750px;
+    width: 550px;
+    padding:10px;
+	display:inline-block;
+	background-color: rgb(220,220,220);;
+	overflow: hidden;
+}
+	/*
+	html,body *{
+		display:block;
+		border: 1px solid white;
+        page-break-after: auto;
+        page-break-before: auto;
+        max-height: 200%;
+	}*/
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="main.css" type="text/css"  />
+	<link rel="stylesheet" href="Parent.css" type="text/css"  />
+
+</header>
+
+<body>
+	<br>
+	<br>
+	<br>
+	<br>
+
+
+
+	As a parent I will agree to<br>
+	<textarea id="Agreements"> </textarea> <br>
+
+<button type="button" id="print" class="btn btn-primary" >Create Family tech plan!</button>
+
+
+<script>
+
+var condition=document.getElementById("print");
+
+condition.addEventListener("click", h);
+
+function h(){
+	var x= document.getElementById("Agreements").value;
+	sessionStorage.setItem("parents",x);
+	console.log(sessionStorage.getItem("parents"));
+
+	window.location.assign("printpage.html");
+}
+
+ </script>
+
+
+
+
+
+
+</body>
+
+</html>
